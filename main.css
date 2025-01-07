@@ -28,4 +28,5 @@ p[id="header_blank"] {
 .contents_list {
   width: 30%;
   padding: 10px;
+  position: fixed;
 }

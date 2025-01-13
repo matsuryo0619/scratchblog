@@ -22,3 +22,7 @@ p[id="header_blank"] {
 body {
   cursor: url('cursor.png') 8 8, auto;
 }
+
+a[target="_blank"] {
+  cursor: url('cursor_newtab') 8 8, auto;
+}

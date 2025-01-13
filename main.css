@@ -20,5 +20,5 @@ p[id="header_blank"] {
 }
 
 * {
-  cursor: none;
+  cursor: none !important;
 }

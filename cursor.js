@@ -1,4 +1,4 @@
-const img = document.getElementByID("cursor");
+const img = document.getElementById("cursor");
 
 document.addEventListener("mousemove", (event) => {
   const mouseX = event.pageX;

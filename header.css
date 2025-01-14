@@ -37,7 +37,7 @@ body {
 }
 
 .header_list:hover {
-  cursor: pointer;
+  cursor: url('cursor_newtab.svg') 8 8, auto;
   background-color: #6c4daa;
 }
 
@@ -49,5 +49,5 @@ body {
 
 #icon_img:hover {
   transform: scale(1.1);
-  cursor: pointer;
+  cursor: url('cursor_newtab') 8 8, auto;
 }

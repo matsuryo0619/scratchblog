@@ -37,7 +37,7 @@ body {
 }
 
 .header_list:hover {
-  cursor: url('cursor_newtab.svg') 8 8, auto;
+  cursor: url('cursor_pagechange.svg') 8 8, auto;
   background-color: #6c4daa;
 }
 

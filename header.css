@@ -49,5 +49,5 @@ body {
 
 #icon_img:hover {
   transform: scale(1.1);
-  cursor: url('cursor_newtab') 8 8, auto;
+  cursor: url('cursor_newtab.svg') 8 8, auto;
 }
